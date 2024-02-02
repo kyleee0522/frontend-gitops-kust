@@ -3,6 +3,7 @@ kind: Kustomization
 resources:
 - deployment.yaml
 - service.yaml
+- ingress.yaml
 images:
 - name: ghcr.io/shclub/vue3
   newTag: "v3"
