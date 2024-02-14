@@ -5,5 +5,5 @@ resources:
 - service.yaml
 - ingress.yaml
 images:
-- name: ghcr.io/shclub/vue3
-  newTag: "v3"
+- name: ghcr.io/kyleee0522/vue_crud_security
+  newTag: "v5"
