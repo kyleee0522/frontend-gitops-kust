@@ -6,4 +6,4 @@ resources:
 - ingress.yaml
 images:
 - name: ghcr.io/kyleee0522/vue_crud_security
-  newTag: "v5"
+  newTag: "20240214080627"
